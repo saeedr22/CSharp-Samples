@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\Methods\bin\Debug\net6.0\Methods.exe
+E:\sarez\Codes\C#Pro9_Samples\Methods\bin\Debug\net6.0\Methods.deps.json
+E:\sarez\Codes\C#Pro9_Samples\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\Methods\bin\Debug\net6.0\Methods.dll
+E:\sarez\Codes\C#Pro9_Samples\Methods\bin\Debug\net6.0\ref\Methods.dll
+E:\sarez\Codes\C#Pro9_Samples\Methods\bin\Debug\net6.0\Methods.pdb
+E:\sarez\Codes\C#Pro9_Samples\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\Methods\obj\Debug\net6.0\Methods.dll
+E:\sarez\Codes\C#Pro9_Samples\Methods\obj\Debug\net6.0\ref\Methods.dll
+E:\sarez\Codes\C#Pro9_Samples\Methods\obj\Debug\net6.0\Methods.pdb
+E:\sarez\Codes\C#Pro9_Samples\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache

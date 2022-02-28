@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\Tuples\bin\Debug\net6.0\Tuples.exe
+E:\sarez\Codes\C#Pro9_Samples\Tuples\bin\Debug\net6.0\Tuples.deps.json
+E:\sarez\Codes\C#Pro9_Samples\Tuples\bin\Debug\net6.0\Tuples.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\Tuples\bin\Debug\net6.0\Tuples.dll
+E:\sarez\Codes\C#Pro9_Samples\Tuples\bin\Debug\net6.0\ref\Tuples.dll
+E:\sarez\Codes\C#Pro9_Samples\Tuples\bin\Debug\net6.0\Tuples.pdb
+E:\sarez\Codes\C#Pro9_Samples\Tuples\obj\Debug\net6.0\Tuples.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\Tuples\obj\Debug\net6.0\Tuples.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\Tuples\obj\Debug\net6.0\Tuples.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\Tuples\obj\Debug\net6.0\Tuples.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\Tuples\obj\Debug\net6.0\Tuples.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\Tuples\obj\Debug\net6.0\Tuples.dll
+E:\sarez\Codes\C#Pro9_Samples\Tuples\obj\Debug\net6.0\ref\Tuples.dll
+E:\sarez\Codes\C#Pro9_Samples\Tuples\obj\Debug\net6.0\Tuples.pdb
+E:\sarez\Codes\C#Pro9_Samples\Tuples\obj\Debug\net6.0\Tuples.genruntimeconfig.cache

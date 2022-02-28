@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WkfKnUs+kG0VKYZ3iJZyJUjbstHqSwCiZOWvDSdHrns7vTm5XpFo/uZ6BDG9xE88nNa1fNt2ickzxWOaAc4tcA==",
+  "success": true,
+  "projectFilePath": "E:\\sarez\\Codes\\C#Pro9_Samples\\Chapter3\\ConditionalOperator\\ConditionalOperator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saeed\\.nuget\\packages\\microsoft.netcore.ildasm\\6.0.0\\microsoft.netcore.ildasm.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

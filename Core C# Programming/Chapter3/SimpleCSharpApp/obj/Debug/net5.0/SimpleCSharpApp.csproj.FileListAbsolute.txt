@@ -1,0 +1,16 @@
+H:\sarez\Codes\C#Pro9_Samples\Chapter3\SimpleCSharpApp\bin\Debug\net5.0\SimpleCSharpApp.exe
+H:\sarez\Codes\C#Pro9_Samples\Chapter3\SimpleCSharpApp\bin\Debug\net5.0\SimpleCSharpApp.deps.json
+H:\sarez\Codes\C#Pro9_Samples\Chapter3\SimpleCSharpApp\bin\Debug\net5.0\SimpleCSharpApp.runtimeconfig.json
+H:\sarez\Codes\C#Pro9_Samples\Chapter3\SimpleCSharpApp\bin\Debug\net5.0\SimpleCSharpApp.runtimeconfig.dev.json
+H:\sarez\Codes\C#Pro9_Samples\Chapter3\SimpleCSharpApp\bin\Debug\net5.0\SimpleCSharpApp.dll
+H:\sarez\Codes\C#Pro9_Samples\Chapter3\SimpleCSharpApp\bin\Debug\net5.0\ref\SimpleCSharpApp.dll
+H:\sarez\Codes\C#Pro9_Samples\Chapter3\SimpleCSharpApp\bin\Debug\net5.0\SimpleCSharpApp.pdb
+H:\sarez\Codes\C#Pro9_Samples\Chapter3\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.csprojAssemblyReference.cache
+H:\sarez\Codes\C#Pro9_Samples\Chapter3\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+H:\sarez\Codes\C#Pro9_Samples\Chapter3\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.AssemblyInfoInputs.cache
+H:\sarez\Codes\C#Pro9_Samples\Chapter3\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.AssemblyInfo.cs
+H:\sarez\Codes\C#Pro9_Samples\Chapter3\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.csproj.CoreCompileInputs.cache
+H:\sarez\Codes\C#Pro9_Samples\Chapter3\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.dll
+H:\sarez\Codes\C#Pro9_Samples\Chapter3\SimpleCSharpApp\obj\Debug\net5.0\ref\SimpleCSharpApp.dll
+H:\sarez\Codes\C#Pro9_Samples\Chapter3\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.pdb
+H:\sarez\Codes\C#Pro9_Samples\Chapter3\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.genruntimeconfig.cache

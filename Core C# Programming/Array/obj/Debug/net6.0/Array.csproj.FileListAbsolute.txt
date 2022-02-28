@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\Array\bin\Debug\net6.0\Array.exe
+E:\sarez\Codes\C#Pro9_Samples\Array\bin\Debug\net6.0\Array.deps.json
+E:\sarez\Codes\C#Pro9_Samples\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\Array\bin\Debug\net6.0\Array.dll
+E:\sarez\Codes\C#Pro9_Samples\Array\bin\Debug\net6.0\ref\Array.dll
+E:\sarez\Codes\C#Pro9_Samples\Array\bin\Debug\net6.0\Array.pdb
+E:\sarez\Codes\C#Pro9_Samples\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\Array\obj\Debug\net6.0\Array.dll
+E:\sarez\Codes\C#Pro9_Samples\Array\obj\Debug\net6.0\ref\Array.dll
+E:\sarez\Codes\C#Pro9_Samples\Array\obj\Debug\net6.0\Array.pdb
+E:\sarez\Codes\C#Pro9_Samples\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache

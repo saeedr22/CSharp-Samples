@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\ConditionalOperator\bin\Debug\net6.0\ConditionalOperator.exe
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\ConditionalOperator\bin\Debug\net6.0\ConditionalOperator.deps.json
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\ConditionalOperator\bin\Debug\net6.0\ConditionalOperator.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\ConditionalOperator\bin\Debug\net6.0\ConditionalOperator.dll
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\ConditionalOperator\bin\Debug\net6.0\ref\ConditionalOperator.dll
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\ConditionalOperator\bin\Debug\net6.0\ConditionalOperator.pdb
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\ConditionalOperator\obj\Debug\net6.0\ConditionalOperator.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\ConditionalOperator\obj\Debug\net6.0\ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\ConditionalOperator\obj\Debug\net6.0\ConditionalOperator.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\ConditionalOperator\obj\Debug\net6.0\ConditionalOperator.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\ConditionalOperator\obj\Debug\net6.0\ConditionalOperator.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\ConditionalOperator\obj\Debug\net6.0\ConditionalOperator.dll
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\ConditionalOperator\obj\Debug\net6.0\ref\ConditionalOperator.dll
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\ConditionalOperator\obj\Debug\net6.0\ConditionalOperator.pdb
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\ConditionalOperator\obj\Debug\net6.0\ConditionalOperator.genruntimeconfig.cache

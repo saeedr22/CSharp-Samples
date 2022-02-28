@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\NullableTypes\bin\Debug\net6.0\NullableTypes.exe
+E:\sarez\Codes\C#Pro9_Samples\NullableTypes\bin\Debug\net6.0\NullableTypes.deps.json
+E:\sarez\Codes\C#Pro9_Samples\NullableTypes\bin\Debug\net6.0\NullableTypes.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\NullableTypes\bin\Debug\net6.0\NullableTypes.dll
+E:\sarez\Codes\C#Pro9_Samples\NullableTypes\bin\Debug\net6.0\ref\NullableTypes.dll
+E:\sarez\Codes\C#Pro9_Samples\NullableTypes\bin\Debug\net6.0\NullableTypes.pdb
+E:\sarez\Codes\C#Pro9_Samples\NullableTypes\obj\Debug\net6.0\NullableTypes.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\NullableTypes\obj\Debug\net6.0\NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\NullableTypes\obj\Debug\net6.0\NullableTypes.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\NullableTypes\obj\Debug\net6.0\NullableTypes.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\NullableTypes\obj\Debug\net6.0\NullableTypes.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\NullableTypes\obj\Debug\net6.0\NullableTypes.dll
+E:\sarez\Codes\C#Pro9_Samples\NullableTypes\obj\Debug\net6.0\ref\NullableTypes.dll
+E:\sarez\Codes\C#Pro9_Samples\NullableTypes\obj\Debug\net6.0\NullableTypes.pdb
+E:\sarez\Codes\C#Pro9_Samples\NullableTypes\obj\Debug\net6.0\NullableTypes.genruntimeconfig.cache

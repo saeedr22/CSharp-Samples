@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\ValueAndRefType\bin\Debug\net6.0\ValueAndRefType.exe
+E:\sarez\Codes\C#Pro9_Samples\ValueAndRefType\bin\Debug\net6.0\ValueAndRefType.deps.json
+E:\sarez\Codes\C#Pro9_Samples\ValueAndRefType\bin\Debug\net6.0\ValueAndRefType.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\ValueAndRefType\bin\Debug\net6.0\ValueAndRefType.dll
+E:\sarez\Codes\C#Pro9_Samples\ValueAndRefType\bin\Debug\net6.0\ref\ValueAndRefType.dll
+E:\sarez\Codes\C#Pro9_Samples\ValueAndRefType\bin\Debug\net6.0\ValueAndRefType.pdb
+E:\sarez\Codes\C#Pro9_Samples\ValueAndRefType\obj\Debug\net6.0\ValueAndRefType.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\ValueAndRefType\obj\Debug\net6.0\ValueAndRefType.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\ValueAndRefType\obj\Debug\net6.0\ValueAndRefType.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\ValueAndRefType\obj\Debug\net6.0\ValueAndRefType.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\ValueAndRefType\obj\Debug\net6.0\ValueAndRefType.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\ValueAndRefType\obj\Debug\net6.0\ValueAndRefType.dll
+E:\sarez\Codes\C#Pro9_Samples\ValueAndRefType\obj\Debug\net6.0\ref\ValueAndRefType.dll
+E:\sarez\Codes\C#Pro9_Samples\ValueAndRefType\obj\Debug\net6.0\ValueAndRefType.pdb
+E:\sarez\Codes\C#Pro9_Samples\ValueAndRefType\obj\Debug\net6.0\ValueAndRefType.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\Enum\obj\Debug\net6.0\Enum.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\Enum\obj\Debug\net6.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\Enum\obj\Debug\net6.0\Enum.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\Enum\obj\Debug\net6.0\Enum.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\Enum\obj\Debug\net6.0\Enum.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\Enum\bin\Debug\net6.0\Enum.exe
+E:\sarez\Codes\C#Pro9_Samples\Enum\bin\Debug\net6.0\Enum.deps.json
+E:\sarez\Codes\C#Pro9_Samples\Enum\bin\Debug\net6.0\Enum.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\Enum\bin\Debug\net6.0\Enum.dll
+E:\sarez\Codes\C#Pro9_Samples\Enum\bin\Debug\net6.0\ref\Enum.dll
+E:\sarez\Codes\C#Pro9_Samples\Enum\bin\Debug\net6.0\Enum.pdb
+E:\sarez\Codes\C#Pro9_Samples\Enum\obj\Debug\net6.0\Enum.dll
+E:\sarez\Codes\C#Pro9_Samples\Enum\obj\Debug\net6.0\ref\Enum.dll
+E:\sarez\Codes\C#Pro9_Samples\Enum\obj\Debug\net6.0\Enum.pdb
+E:\sarez\Codes\C#Pro9_Samples\Enum\obj\Debug\net6.0\Enum.genruntimeconfig.cache

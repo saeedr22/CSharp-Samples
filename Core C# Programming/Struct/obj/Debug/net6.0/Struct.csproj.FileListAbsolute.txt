@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\Struct\bin\Debug\net6.0\Struct.exe
+E:\sarez\Codes\C#Pro9_Samples\Struct\bin\Debug\net6.0\Struct.deps.json
+E:\sarez\Codes\C#Pro9_Samples\Struct\bin\Debug\net6.0\Struct.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\Struct\bin\Debug\net6.0\Struct.dll
+E:\sarez\Codes\C#Pro9_Samples\Struct\bin\Debug\net6.0\ref\Struct.dll
+E:\sarez\Codes\C#Pro9_Samples\Struct\bin\Debug\net6.0\Struct.pdb
+E:\sarez\Codes\C#Pro9_Samples\Struct\obj\Debug\net6.0\Struct.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\Struct\obj\Debug\net6.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\Struct\obj\Debug\net6.0\Struct.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\Struct\obj\Debug\net6.0\Struct.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\Struct\obj\Debug\net6.0\Struct.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\Struct\obj\Debug\net6.0\Struct.dll
+E:\sarez\Codes\C#Pro9_Samples\Struct\obj\Debug\net6.0\ref\Struct.dll
+E:\sarez\Codes\C#Pro9_Samples\Struct\obj\Debug\net6.0\Struct.pdb
+E:\sarez\Codes\C#Pro9_Samples\Struct\obj\Debug\net6.0\Struct.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\Decisions\bin\Debug\net5.0\DecisionsPatternMatching.exe
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\Decisions\bin\Debug\net5.0\DecisionsPatternMatching.deps.json
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\Decisions\bin\Debug\net5.0\DecisionsPatternMatching.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\Decisions\bin\Debug\net5.0\DecisionsPatternMatching.runtimeconfig.dev.json
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\Decisions\bin\Debug\net5.0\DecisionsPatternMatching.dll
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\Decisions\bin\Debug\net5.0\ref\DecisionsPatternMatching.dll
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\Decisions\bin\Debug\net5.0\DecisionsPatternMatching.pdb
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\Decisions\obj\Debug\net5.0\DecisionsPatternMatching.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\Decisions\obj\Debug\net5.0\DecisionsPatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\Decisions\obj\Debug\net5.0\DecisionsPatternMatching.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\Decisions\obj\Debug\net5.0\DecisionsPatternMatching.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\Decisions\obj\Debug\net5.0\DecisionsPatternMatching.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\Decisions\obj\Debug\net5.0\DecisionsPatternMatching.dll
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\Decisions\obj\Debug\net5.0\ref\DecisionsPatternMatching.dll
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\Decisions\obj\Debug\net5.0\DecisionsPatternMatching.pdb
+E:\sarez\Codes\C#Pro9_Samples\Chapter3\Decisions\obj\Debug\net5.0\DecisionsPatternMatching.genruntimeconfig.cache

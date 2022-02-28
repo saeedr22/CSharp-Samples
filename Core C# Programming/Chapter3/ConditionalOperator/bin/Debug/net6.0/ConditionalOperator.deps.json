@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConditionalOperator/1.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.ILDAsm": "6.0.0"
+        },
+        "runtime": {
+          "ConditionalOperator.dll": {}
+        }
+      },
+      "Microsoft.NETCore.ILDAsm/6.0.0": {}
+    }
+  },
+  "libraries": {
+    "ConditionalOperator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.ILDAsm/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+bDnKZ+fok7npWxfcwFpi03efY4cq2XhGIsIkmNmMBM0wkw8pV5YX7zrAAI7g2p/UVdN1HyFrL3myFVECXaGCg==",
+      "path": "microsoft.netcore.ildasm/6.0.0",
+      "hashPath": "microsoft.netcore.ildasm.6.0.0.nupkg.sha512"
+    }
+  }
+}
