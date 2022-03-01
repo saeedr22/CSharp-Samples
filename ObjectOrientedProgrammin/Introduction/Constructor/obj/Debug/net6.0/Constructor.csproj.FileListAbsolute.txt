@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Introduction\Constructor\bin\Debug\net6.0\Constructor.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Introduction\Constructor\bin\Debug\net6.0\Constructor.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Introduction\Constructor\bin\Debug\net6.0\Constructor.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Introduction\Constructor\bin\Debug\net6.0\Constructor.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Introduction\Constructor\bin\Debug\net6.0\ref\Constructor.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Introduction\Constructor\bin\Debug\net6.0\Constructor.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Introduction\Constructor\obj\Debug\net6.0\Constructor.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Introduction\Constructor\obj\Debug\net6.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Introduction\Constructor\obj\Debug\net6.0\Constructor.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Introduction\Constructor\obj\Debug\net6.0\Constructor.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Introduction\Constructor\obj\Debug\net6.0\Constructor.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Introduction\Constructor\obj\Debug\net6.0\Constructor.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Introduction\Constructor\obj\Debug\net6.0\ref\Constructor.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Introduction\Constructor\obj\Debug\net6.0\Constructor.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Introduction\Constructor\obj\Debug\net6.0\Constructor.genruntimeconfig.cache
