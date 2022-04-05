@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Encapsulation\bin\Debug\net6.0\ref\Encapsulation.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache

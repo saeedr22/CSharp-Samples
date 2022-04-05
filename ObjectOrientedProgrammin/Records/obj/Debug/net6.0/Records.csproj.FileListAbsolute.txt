@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Records\bin\Debug\net6.0\Records.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Records\bin\Debug\net6.0\Records.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Records\bin\Debug\net6.0\Records.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Records\bin\Debug\net6.0\Records.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Records\bin\Debug\net6.0\ref\Records.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Records\bin\Debug\net6.0\Records.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Records\obj\Debug\net6.0\Records.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Records\obj\Debug\net6.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Records\obj\Debug\net6.0\Records.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Records\obj\Debug\net6.0\Records.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Records\obj\Debug\net6.0\Records.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Records\obj\Debug\net6.0\Records.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Records\obj\Debug\net6.0\ref\Records.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Records\obj\Debug\net6.0\Records.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Records\obj\Debug\net6.0\Records.genruntimeconfig.cache

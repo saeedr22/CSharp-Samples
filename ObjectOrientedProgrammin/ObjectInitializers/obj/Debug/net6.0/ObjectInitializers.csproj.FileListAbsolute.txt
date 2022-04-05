@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\ObjectInitializers\bin\Debug\net6.0\ObjectInitializers.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\ObjectInitializers\bin\Debug\net6.0\ObjectInitializers.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\ObjectInitializers\bin\Debug\net6.0\ObjectInitializers.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\ObjectInitializers\bin\Debug\net6.0\ObjectInitializers.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\ObjectInitializers\bin\Debug\net6.0\ref\ObjectInitializers.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\ObjectInitializers\bin\Debug\net6.0\ObjectInitializers.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\ObjectInitializers\obj\Debug\net6.0\ObjectInitializers.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\ObjectInitializers\obj\Debug\net6.0\ObjectInitializers.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\ObjectInitializers\obj\Debug\net6.0\ObjectInitializers.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\ObjectInitializers\obj\Debug\net6.0\ObjectInitializers.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\ObjectInitializers\obj\Debug\net6.0\ObjectInitializers.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\ObjectInitializers\obj\Debug\net6.0\ObjectInitializers.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\ObjectInitializers\obj\Debug\net6.0\ref\ObjectInitializers.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\ObjectInitializers\obj\Debug\net6.0\ObjectInitializers.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\ObjectInitializers\obj\Debug\net6.0\ObjectInitializers.genruntimeconfig.cache
