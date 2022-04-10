@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Interface\bin\Debug\net6.0\Interface.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Interface\bin\Debug\net6.0\Interface.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Interface\bin\Debug\net6.0\Interface.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Interface\bin\Debug\net6.0\ref\Interface.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Interface\bin\Debug\net6.0\Interface.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Interface\obj\Debug\net6.0\Interface.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Interface\obj\Debug\net6.0\ref\Interface.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Interface\obj\Debug\net6.0\Interface.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
