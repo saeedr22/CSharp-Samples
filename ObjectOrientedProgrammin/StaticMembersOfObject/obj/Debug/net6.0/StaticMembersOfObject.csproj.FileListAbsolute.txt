@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\StaticMembersOfObject\bin\Debug\net6.0\StaticMembersOfObject.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\StaticMembersOfObject\bin\Debug\net6.0\StaticMembersOfObject.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\StaticMembersOfObject\bin\Debug\net6.0\StaticMembersOfObject.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\StaticMembersOfObject\bin\Debug\net6.0\StaticMembersOfObject.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\StaticMembersOfObject\bin\Debug\net6.0\ref\StaticMembersOfObject.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\StaticMembersOfObject\bin\Debug\net6.0\StaticMembersOfObject.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\StaticMembersOfObject\obj\Debug\net6.0\StaticMembersOfObject.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\StaticMembersOfObject\obj\Debug\net6.0\StaticMembersOfObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\StaticMembersOfObject\obj\Debug\net6.0\StaticMembersOfObject.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\StaticMembersOfObject\obj\Debug\net6.0\StaticMembersOfObject.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\StaticMembersOfObject\obj\Debug\net6.0\StaticMembersOfObject.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\StaticMembersOfObject\obj\Debug\net6.0\StaticMembersOfObject.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\StaticMembersOfObject\obj\Debug\net6.0\ref\StaticMembersOfObject.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\StaticMembersOfObject\obj\Debug\net6.0\StaticMembersOfObject.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\StaticMembersOfObject\obj\Debug\net6.0\StaticMembersOfObject.genruntimeconfig.cache
