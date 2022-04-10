@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceDefaultImplementations-CSharp8\obj\Debug\net6.0\InterfaceDefaultImplementations-CSharp8.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceDefaultImplementations-CSharp8\obj\Debug\net6.0\InterfaceDefaultImplementations-CSharp8.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceDefaultImplementations-CSharp8\obj\Debug\net6.0\InterfaceDefaultImplementations-CSharp8.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceDefaultImplementations-CSharp8\obj\Debug\net6.0\InterfaceDefaultImplementations-CSharp8.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceDefaultImplementations-CSharp8\obj\Debug\net6.0\InterfaceDefaultImplementations-CSharp8.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceDefaultImplementations-CSharp8\bin\Debug\net6.0\InterfaceDefaultImplementations-CSharp8.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceDefaultImplementations-CSharp8\bin\Debug\net6.0\InterfaceDefaultImplementations-CSharp8.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceDefaultImplementations-CSharp8\bin\Debug\net6.0\InterfaceDefaultImplementations-CSharp8.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceDefaultImplementations-CSharp8\bin\Debug\net6.0\InterfaceDefaultImplementations-CSharp8.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceDefaultImplementations-CSharp8\bin\Debug\net6.0\ref\InterfaceDefaultImplementations-CSharp8.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceDefaultImplementations-CSharp8\bin\Debug\net6.0\InterfaceDefaultImplementations-CSharp8.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceDefaultImplementations-CSharp8\obj\Debug\net6.0\InterfaceDefaultImplementations-CSharp8.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceDefaultImplementations-CSharp8\obj\Debug\net6.0\ref\InterfaceDefaultImplementations-CSharp8.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceDefaultImplementations-CSharp8\obj\Debug\net6.0\InterfaceDefaultImplementations-CSharp8.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceDefaultImplementations-CSharp8\obj\Debug\net6.0\InterfaceDefaultImplementations-CSharp8.genruntimeconfig.cache
