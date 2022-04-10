@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BasicInheritance\obj\Debug\net6.0\BasicInheritance.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BasicInheritance\obj\Debug\net6.0\BasicInheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BasicInheritance\obj\Debug\net6.0\BasicInheritance.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BasicInheritance\obj\Debug\net6.0\BasicInheritance.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BasicInheritance\obj\Debug\net6.0\BasicInheritance.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BasicInheritance\bin\Debug\net6.0\BasicInheritance.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BasicInheritance\bin\Debug\net6.0\BasicInheritance.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BasicInheritance\bin\Debug\net6.0\BasicInheritance.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BasicInheritance\bin\Debug\net6.0\BasicInheritance.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BasicInheritance\bin\Debug\net6.0\ref\BasicInheritance.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BasicInheritance\bin\Debug\net6.0\BasicInheritance.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BasicInheritance\obj\Debug\net6.0\BasicInheritance.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BasicInheritance\obj\Debug\net6.0\ref\BasicInheritance.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BasicInheritance\obj\Debug\net6.0\BasicInheritance.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BasicInheritance\obj\Debug\net6.0\BasicInheritance.genruntimeconfig.cache

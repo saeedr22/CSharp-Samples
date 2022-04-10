@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BaseClass-DerivedClass-Casting\bin\Debug\net6.0\BaseClass-DerivedClass-Casting.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BaseClass-DerivedClass-Casting\bin\Debug\net6.0\BaseClass-DerivedClass-Casting.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BaseClass-DerivedClass-Casting\bin\Debug\net6.0\BaseClass-DerivedClass-Casting.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BaseClass-DerivedClass-Casting\bin\Debug\net6.0\BaseClass-DerivedClass-Casting.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BaseClass-DerivedClass-Casting\bin\Debug\net6.0\ref\BaseClass-DerivedClass-Casting.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BaseClass-DerivedClass-Casting\bin\Debug\net6.0\BaseClass-DerivedClass-Casting.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BaseClass-DerivedClass-Casting\obj\Debug\net6.0\BaseClass-DerivedClass-Casting.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BaseClass-DerivedClass-Casting\obj\Debug\net6.0\BaseClass-DerivedClass-Casting.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BaseClass-DerivedClass-Casting\obj\Debug\net6.0\BaseClass-DerivedClass-Casting.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BaseClass-DerivedClass-Casting\obj\Debug\net6.0\BaseClass-DerivedClass-Casting.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BaseClass-DerivedClass-Casting\obj\Debug\net6.0\BaseClass-DerivedClass-Casting.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BaseClass-DerivedClass-Casting\obj\Debug\net6.0\BaseClass-DerivedClass-Casting.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BaseClass-DerivedClass-Casting\obj\Debug\net6.0\ref\BaseClass-DerivedClass-Casting.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BaseClass-DerivedClass-Casting\obj\Debug\net6.0\BaseClass-DerivedClass-Casting.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\BaseClass-DerivedClass-Casting\obj\Debug\net6.0\BaseClass-DerivedClass-Casting.genruntimeconfig.cache

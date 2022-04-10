@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\RecordInheritance\bin\Debug\net6.0\RecordInheritance.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\RecordInheritance\bin\Debug\net6.0\RecordInheritance.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\RecordInheritance\bin\Debug\net6.0\RecordInheritance.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\RecordInheritance\bin\Debug\net6.0\RecordInheritance.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\RecordInheritance\bin\Debug\net6.0\ref\RecordInheritance.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\RecordInheritance\bin\Debug\net6.0\RecordInheritance.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\RecordInheritance\obj\Debug\net6.0\RecordInheritance.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\RecordInheritance\obj\Debug\net6.0\RecordInheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\RecordInheritance\obj\Debug\net6.0\RecordInheritance.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\RecordInheritance\obj\Debug\net6.0\RecordInheritance.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\RecordInheritance\obj\Debug\net6.0\RecordInheritance.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\RecordInheritance\obj\Debug\net6.0\RecordInheritance.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\RecordInheritance\obj\Debug\net6.0\ref\RecordInheritance.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\RecordInheritance\obj\Debug\net6.0\RecordInheritance.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\RecordInheritance\obj\Debug\net6.0\RecordInheritance.genruntimeconfig.cache

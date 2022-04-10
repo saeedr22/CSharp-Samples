@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BaseClass-DerivedClass-Casting/1.0.0": {
+        "runtime": {
+          "BaseClass-DerivedClass-Casting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaseClass-DerivedClass-Casting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
