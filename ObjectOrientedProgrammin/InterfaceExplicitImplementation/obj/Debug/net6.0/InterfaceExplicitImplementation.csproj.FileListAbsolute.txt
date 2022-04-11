@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceExplicitImplementation\bin\Debug\net6.0\InterfaceExplicitImplementation.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceExplicitImplementation\bin\Debug\net6.0\InterfaceExplicitImplementation.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceExplicitImplementation\bin\Debug\net6.0\InterfaceExplicitImplementation.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceExplicitImplementation\bin\Debug\net6.0\InterfaceExplicitImplementation.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceExplicitImplementation\bin\Debug\net6.0\ref\InterfaceExplicitImplementation.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceExplicitImplementation\bin\Debug\net6.0\InterfaceExplicitImplementation.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceExplicitImplementation\obj\Debug\net6.0\InterfaceExplicitImplementation.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceExplicitImplementation\obj\Debug\net6.0\InterfaceExplicitImplementation.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceExplicitImplementation\obj\Debug\net6.0\InterfaceExplicitImplementation.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceExplicitImplementation\obj\Debug\net6.0\InterfaceExplicitImplementation.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceExplicitImplementation\obj\Debug\net6.0\InterfaceExplicitImplementation.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceExplicitImplementation\obj\Debug\net6.0\InterfaceExplicitImplementation.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceExplicitImplementation\obj\Debug\net6.0\ref\InterfaceExplicitImplementation.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceExplicitImplementation\obj\Debug\net6.0\InterfaceExplicitImplementation.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceExplicitImplementation\obj\Debug\net6.0\InterfaceExplicitImplementation.genruntimeconfig.cache
