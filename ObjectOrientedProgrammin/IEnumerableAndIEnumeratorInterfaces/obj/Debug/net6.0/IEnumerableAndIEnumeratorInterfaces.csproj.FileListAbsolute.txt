@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\IEnumerableAndIEnumeratorInterfaces\bin\Debug\net6.0\IEnumerableAndIEnumeratorInterfaces.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\IEnumerableAndIEnumeratorInterfaces\bin\Debug\net6.0\IEnumerableAndIEnumeratorInterfaces.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\IEnumerableAndIEnumeratorInterfaces\bin\Debug\net6.0\IEnumerableAndIEnumeratorInterfaces.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\IEnumerableAndIEnumeratorInterfaces\bin\Debug\net6.0\IEnumerableAndIEnumeratorInterfaces.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\IEnumerableAndIEnumeratorInterfaces\bin\Debug\net6.0\ref\IEnumerableAndIEnumeratorInterfaces.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\IEnumerableAndIEnumeratorInterfaces\bin\Debug\net6.0\IEnumerableAndIEnumeratorInterfaces.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\IEnumerableAndIEnumeratorInterfaces\obj\Debug\net6.0\IEnumerableAndIEnumeratorInterfaces.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\IEnumerableAndIEnumeratorInterfaces\obj\Debug\net6.0\IEnumerableAndIEnumeratorInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\IEnumerableAndIEnumeratorInterfaces\obj\Debug\net6.0\IEnumerableAndIEnumeratorInterfaces.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\IEnumerableAndIEnumeratorInterfaces\obj\Debug\net6.0\IEnumerableAndIEnumeratorInterfaces.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\IEnumerableAndIEnumeratorInterfaces\obj\Debug\net6.0\IEnumerableAndIEnumeratorInterfaces.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\IEnumerableAndIEnumeratorInterfaces\obj\Debug\net6.0\IEnumerableAndIEnumeratorInterfaces.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\IEnumerableAndIEnumeratorInterfaces\obj\Debug\net6.0\ref\IEnumerableAndIEnumeratorInterfaces.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\IEnumerableAndIEnumeratorInterfaces\obj\Debug\net6.0\IEnumerableAndIEnumeratorInterfaces.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\IEnumerableAndIEnumeratorInterfaces\obj\Debug\net6.0\IEnumerableAndIEnumeratorInterfaces.genruntimeconfig.cache
