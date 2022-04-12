@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceICloneable\bin\Debug\net6.0\InterfaceICloneable.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceICloneable\bin\Debug\net6.0\InterfaceICloneable.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceICloneable\bin\Debug\net6.0\InterfaceICloneable.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceICloneable\bin\Debug\net6.0\InterfaceICloneable.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceICloneable\bin\Debug\net6.0\ref\InterfaceICloneable.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceICloneable\bin\Debug\net6.0\InterfaceICloneable.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceICloneable\obj\Debug\net6.0\InterfaceICloneable.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceICloneable\obj\Debug\net6.0\InterfaceICloneable.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceICloneable\obj\Debug\net6.0\InterfaceICloneable.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceICloneable\obj\Debug\net6.0\InterfaceICloneable.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceICloneable\obj\Debug\net6.0\InterfaceICloneable.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceICloneable\obj\Debug\net6.0\InterfaceICloneable.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceICloneable\obj\Debug\net6.0\ref\InterfaceICloneable.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceICloneable\obj\Debug\net6.0\InterfaceICloneable.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceICloneable\obj\Debug\net6.0\InterfaceICloneable.genruntimeconfig.cache
