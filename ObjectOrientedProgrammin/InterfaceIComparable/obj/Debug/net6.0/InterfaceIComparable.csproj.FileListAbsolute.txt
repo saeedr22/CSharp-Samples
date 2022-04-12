@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceIComparable\bin\Debug\net6.0\ref\InterfaceIComparable.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceIComparable\obj\Debug\net6.0\ref\InterfaceIComparable.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.genruntimeconfig.cache
