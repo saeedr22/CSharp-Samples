@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollectorSimpleFinalize\bin\Debug\net6.0\GarbageCollectorSimpleFinalize.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollectorSimpleFinalize\bin\Debug\net6.0\GarbageCollectorSimpleFinalize.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollectorSimpleFinalize\bin\Debug\net6.0\GarbageCollectorSimpleFinalize.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollectorSimpleFinalize\bin\Debug\net6.0\GarbageCollectorSimpleFinalize.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollectorSimpleFinalize\bin\Debug\net6.0\ref\GarbageCollectorSimpleFinalize.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollectorSimpleFinalize\bin\Debug\net6.0\GarbageCollectorSimpleFinalize.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollectorSimpleFinalize\obj\Debug\net6.0\GarbageCollectorSimpleFinalize.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollectorSimpleFinalize\obj\Debug\net6.0\GarbageCollectorSimpleFinalize.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollectorSimpleFinalize\obj\Debug\net6.0\GarbageCollectorSimpleFinalize.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollectorSimpleFinalize\obj\Debug\net6.0\GarbageCollectorSimpleFinalize.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollectorSimpleFinalize\obj\Debug\net6.0\GarbageCollectorSimpleFinalize.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollectorSimpleFinalize\obj\Debug\net6.0\GarbageCollectorSimpleFinalize.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollectorSimpleFinalize\obj\Debug\net6.0\ref\GarbageCollectorSimpleFinalize.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollectorSimpleFinalize\obj\Debug\net6.0\GarbageCollectorSimpleFinalize.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollectorSimpleFinalize\obj\Debug\net6.0\GarbageCollectorSimpleFinalize.genruntimeconfig.cache

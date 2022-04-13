@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollector-sample01\bin\Debug\net6.0\GarbageCollector-sample01.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollector-sample01\bin\Debug\net6.0\GarbageCollector-sample01.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollector-sample01\bin\Debug\net6.0\GarbageCollector-sample01.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollector-sample01\bin\Debug\net6.0\GarbageCollector-sample01.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollector-sample01\bin\Debug\net6.0\ref\GarbageCollector-sample01.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollector-sample01\bin\Debug\net6.0\GarbageCollector-sample01.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollector-sample01\obj\Debug\net6.0\GarbageCollector-sample01.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollector-sample01\obj\Debug\net6.0\GarbageCollector-sample01.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollector-sample01\obj\Debug\net6.0\GarbageCollector-sample01.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollector-sample01\obj\Debug\net6.0\GarbageCollector-sample01.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollector-sample01\obj\Debug\net6.0\GarbageCollector-sample01.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollector-sample01\obj\Debug\net6.0\GarbageCollector-sample01.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollector-sample01\obj\Debug\net6.0\ref\GarbageCollector-sample01.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollector-sample01\obj\Debug\net6.0\GarbageCollector-sample01.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\GarbageCollector-sample01\obj\Debug\net6.0\GarbageCollector-sample01.genruntimeconfig.cache
