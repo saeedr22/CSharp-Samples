@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\LazyObjectInstantiation\bin\Debug\net6.0\LazyObjectInstantiation.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\LazyObjectInstantiation\bin\Debug\net6.0\LazyObjectInstantiation.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\LazyObjectInstantiation\bin\Debug\net6.0\LazyObjectInstantiation.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\LazyObjectInstantiation\bin\Debug\net6.0\LazyObjectInstantiation.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\LazyObjectInstantiation\bin\Debug\net6.0\ref\LazyObjectInstantiation.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\LazyObjectInstantiation\bin\Debug\net6.0\LazyObjectInstantiation.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\LazyObjectInstantiation\obj\Debug\net6.0\LazyObjectInstantiation.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\LazyObjectInstantiation\obj\Debug\net6.0\LazyObjectInstantiation.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\LazyObjectInstantiation\obj\Debug\net6.0\LazyObjectInstantiation.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\LazyObjectInstantiation\obj\Debug\net6.0\LazyObjectInstantiation.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\LazyObjectInstantiation\obj\Debug\net6.0\LazyObjectInstantiation.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\LazyObjectInstantiation\obj\Debug\net6.0\LazyObjectInstantiation.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\LazyObjectInstantiation\obj\Debug\net6.0\ref\LazyObjectInstantiation.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\LazyObjectInstantiation\obj\Debug\net6.0\LazyObjectInstantiation.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\ObjectOrientedProgrammin\LazyObjectInstantiation\obj\Debug\net6.0\LazyObjectInstantiation.genruntimeconfig.cache
