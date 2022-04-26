@@ -14,7 +14,14 @@ p4.X = 0;
 // Print each object.
 Console.WriteLine(p3);
 Console.WriteLine(p4);
-class Point : ICloneable
+
+//Error When Point is Is Not IDisposable 
+// type used in a using statement must be implicitly convertible to 'System.IDisposable'
+using (Point p = new Point())
+{
+  p.ToString();
+}
+class Point 
 {
     public Point() { }
     public Point(int xPos, int yPos)

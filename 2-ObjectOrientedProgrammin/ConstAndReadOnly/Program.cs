@@ -1,4 +1,4 @@
-Console.WriteLine("The value of PI is: {0}", MyMathClass.PI);
+﻿Console.WriteLine("The value of PI is: {0}", MyMathClass.PI);
 Console.WriteLine("The value of PI is: {0}", MyMathClass.staticPIReadOnly);
 // Error! Can't change a constant!
 // MyMathClass.PI = 3.1444
@@ -20,7 +20,6 @@ class MyMathClass
         // PI = 3.14;
         // staticPIReadOnly = 3.14;
         //***
-        //the value of a static read-only field is not known until runtime,
     }
 
     // Error!
