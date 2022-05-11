@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\GenericStructuresClasses\bin\Debug\net6.0\GenericStructuresClasses.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\GenericStructuresClasses\bin\Debug\net6.0\GenericStructuresClasses.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\GenericStructuresClasses\bin\Debug\net6.0\GenericStructuresClasses.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\GenericStructuresClasses\bin\Debug\net6.0\GenericStructuresClasses.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\GenericStructuresClasses\bin\Debug\net6.0\ref\GenericStructuresClasses.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\GenericStructuresClasses\bin\Debug\net6.0\GenericStructuresClasses.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\GenericStructuresClasses\obj\Debug\net6.0\GenericStructuresClasses.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\GenericStructuresClasses\obj\Debug\net6.0\GenericStructuresClasses.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\GenericStructuresClasses\obj\Debug\net6.0\GenericStructuresClasses.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\GenericStructuresClasses\obj\Debug\net6.0\GenericStructuresClasses.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\GenericStructuresClasses\obj\Debug\net6.0\GenericStructuresClasses.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\GenericStructuresClasses\obj\Debug\net6.0\GenericStructuresClasses.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\GenericStructuresClasses\obj\Debug\net6.0\ref\GenericStructuresClasses.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\GenericStructuresClasses\obj\Debug\net6.0\GenericStructuresClasses.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\GenericStructuresClasses\obj\Debug\net6.0\GenericStructuresClasses.genruntimeconfig.cache

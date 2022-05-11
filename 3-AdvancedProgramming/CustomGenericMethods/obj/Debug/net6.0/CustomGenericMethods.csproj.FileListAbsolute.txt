@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomGenericMethods\obj\Debug\net6.0\CustomGenericMethods.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomGenericMethods\obj\Debug\net6.0\CustomGenericMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomGenericMethods\obj\Debug\net6.0\CustomGenericMethods.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomGenericMethods\obj\Debug\net6.0\CustomGenericMethods.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomGenericMethods\obj\Debug\net6.0\CustomGenericMethods.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomGenericMethods\bin\Debug\net6.0\CustomGenericMethods.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomGenericMethods\bin\Debug\net6.0\CustomGenericMethods.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomGenericMethods\bin\Debug\net6.0\CustomGenericMethods.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomGenericMethods\bin\Debug\net6.0\CustomGenericMethods.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomGenericMethods\bin\Debug\net6.0\ref\CustomGenericMethods.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomGenericMethods\bin\Debug\net6.0\CustomGenericMethods.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomGenericMethods\obj\Debug\net6.0\CustomGenericMethods.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomGenericMethods\obj\Debug\net6.0\ref\CustomGenericMethods.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomGenericMethods\obj\Debug\net6.0\CustomGenericMethods.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomGenericMethods\obj\Debug\net6.0\CustomGenericMethods.genruntimeconfig.cache

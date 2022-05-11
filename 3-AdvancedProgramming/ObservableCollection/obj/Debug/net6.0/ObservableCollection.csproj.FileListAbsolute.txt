@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ObservableCollection\bin\Debug\net6.0\ObservableCollection.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ObservableCollection\bin\Debug\net6.0\ObservableCollection.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ObservableCollection\bin\Debug\net6.0\ObservableCollection.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ObservableCollection\bin\Debug\net6.0\ObservableCollection.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ObservableCollection\bin\Debug\net6.0\ref\ObservableCollection.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ObservableCollection\bin\Debug\net6.0\ObservableCollection.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ObservableCollection\obj\Debug\net6.0\ObservableCollection.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ObservableCollection\obj\Debug\net6.0\ObservableCollection.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ObservableCollection\obj\Debug\net6.0\ObservableCollection.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ObservableCollection\obj\Debug\net6.0\ObservableCollection.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ObservableCollection\obj\Debug\net6.0\ObservableCollection.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ObservableCollection\obj\Debug\net6.0\ObservableCollection.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ObservableCollection\obj\Debug\net6.0\ref\ObservableCollection.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ObservableCollection\obj\Debug\net6.0\ObservableCollection.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ObservableCollection\obj\Debug\net6.0\ObservableCollection.genruntimeconfig.cache
