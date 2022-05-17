@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\SimpleIndexer\bin\Debug\net6.0\SimpleIndexer.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\SimpleIndexer\bin\Debug\net6.0\SimpleIndexer.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\SimpleIndexer\bin\Debug\net6.0\SimpleIndexer.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\SimpleIndexer\bin\Debug\net6.0\SimpleIndexer.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\SimpleIndexer\bin\Debug\net6.0\ref\SimpleIndexer.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\SimpleIndexer\bin\Debug\net6.0\SimpleIndexer.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\SimpleIndexer\obj\Debug\net6.0\SimpleIndexer.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\SimpleIndexer\obj\Debug\net6.0\SimpleIndexer.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\SimpleIndexer\obj\Debug\net6.0\SimpleIndexer.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\SimpleIndexer\obj\Debug\net6.0\SimpleIndexer.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\SimpleIndexer\obj\Debug\net6.0\SimpleIndexer.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\SimpleIndexer\obj\Debug\net6.0\SimpleIndexer.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\SimpleIndexer\obj\Debug\net6.0\ref\SimpleIndexer.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\SimpleIndexer\obj\Debug\net6.0\SimpleIndexer.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\SimpleIndexer\obj\Debug\net6.0\SimpleIndexer.genruntimeconfig.cache

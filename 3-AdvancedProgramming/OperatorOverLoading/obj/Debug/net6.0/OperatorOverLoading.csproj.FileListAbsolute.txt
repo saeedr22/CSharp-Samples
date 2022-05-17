@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\OperatorOverLoading\bin\Debug\net6.0\OperatorOverLoading.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\OperatorOverLoading\bin\Debug\net6.0\OperatorOverLoading.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\OperatorOverLoading\bin\Debug\net6.0\OperatorOverLoading.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\OperatorOverLoading\bin\Debug\net6.0\OperatorOverLoading.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\OperatorOverLoading\bin\Debug\net6.0\ref\OperatorOverLoading.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\OperatorOverLoading\bin\Debug\net6.0\OperatorOverLoading.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\OperatorOverLoading\obj\Debug\net6.0\ref\OperatorOverLoading.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.genruntimeconfig.cache
