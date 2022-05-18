@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomConversions\bin\Debug\net6.0\CustomConversions.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomConversions\bin\Debug\net6.0\CustomConversions.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomConversions\bin\Debug\net6.0\CustomConversions.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomConversions\bin\Debug\net6.0\CustomConversions.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomConversions\bin\Debug\net6.0\ref\CustomConversions.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomConversions\bin\Debug\net6.0\CustomConversions.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomConversions\obj\Debug\net6.0\CustomConversions.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomConversions\obj\Debug\net6.0\CustomConversions.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomConversions\obj\Debug\net6.0\CustomConversions.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomConversions\obj\Debug\net6.0\CustomConversions.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomConversions\obj\Debug\net6.0\CustomConversions.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomConversions\obj\Debug\net6.0\CustomConversions.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomConversions\obj\Debug\net6.0\ref\CustomConversions.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomConversions\obj\Debug\net6.0\CustomConversions.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\CustomConversions\obj\Debug\net6.0\CustomConversions.genruntimeconfig.cache
