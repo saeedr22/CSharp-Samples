@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\AnonymousType\obj\Debug\net6.0\AnonymousType.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\AnonymousType\obj\Debug\net6.0\AnonymousType.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\AnonymousType\obj\Debug\net6.0\AnonymousType.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\AnonymousType\obj\Debug\net6.0\AnonymousType.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\AnonymousType\obj\Debug\net6.0\AnonymousType.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\AnonymousType\bin\Debug\net6.0\AnonymousType.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\AnonymousType\bin\Debug\net6.0\AnonymousType.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\AnonymousType\bin\Debug\net6.0\AnonymousType.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\AnonymousType\bin\Debug\net6.0\AnonymousType.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\AnonymousType\bin\Debug\net6.0\ref\AnonymousType.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\AnonymousType\bin\Debug\net6.0\AnonymousType.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\AnonymousType\obj\Debug\net6.0\AnonymousType.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\AnonymousType\obj\Debug\net6.0\ref\AnonymousType.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\AnonymousType\obj\Debug\net6.0\AnonymousType.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\AnonymousType\obj\Debug\net6.0\AnonymousType.genruntimeconfig.cache

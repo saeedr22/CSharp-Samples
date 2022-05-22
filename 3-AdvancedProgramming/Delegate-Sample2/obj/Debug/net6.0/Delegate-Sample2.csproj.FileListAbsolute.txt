@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\Delegate-Sample2\bin\Debug\net6.0\Delegate-Sample2.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\Delegate-Sample2\bin\Debug\net6.0\Delegate-Sample2.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\Delegate-Sample2\bin\Debug\net6.0\Delegate-Sample2.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\Delegate-Sample2\bin\Debug\net6.0\Delegate-Sample2.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\Delegate-Sample2\bin\Debug\net6.0\ref\Delegate-Sample2.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\Delegate-Sample2\bin\Debug\net6.0\Delegate-Sample2.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\Delegate-Sample2\obj\Debug\net6.0\Delegate-Sample2.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\Delegate-Sample2\obj\Debug\net6.0\Delegate-Sample2.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\Delegate-Sample2\obj\Debug\net6.0\Delegate-Sample2.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\Delegate-Sample2\obj\Debug\net6.0\Delegate-Sample2.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\Delegate-Sample2\obj\Debug\net6.0\Delegate-Sample2.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\Delegate-Sample2\obj\Debug\net6.0\Delegate-Sample2.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\Delegate-Sample2\obj\Debug\net6.0\ref\Delegate-Sample2.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\Delegate-Sample2\obj\Debug\net6.0\Delegate-Sample2.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\Delegate-Sample2\obj\Debug\net6.0\Delegate-Sample2.genruntimeconfig.cache
