@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\PublicDelegateProblem\bin\Debug\net6.0\PublicDelegateProblem.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\PublicDelegateProblem\bin\Debug\net6.0\PublicDelegateProblem.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\PublicDelegateProblem\bin\Debug\net6.0\PublicDelegateProblem.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\PublicDelegateProblem\bin\Debug\net6.0\PublicDelegateProblem.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\PublicDelegateProblem\bin\Debug\net6.0\ref\PublicDelegateProblem.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\PublicDelegateProblem\bin\Debug\net6.0\PublicDelegateProblem.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\PublicDelegateProblem\obj\Debug\net6.0\PublicDelegateProblem.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\PublicDelegateProblem\obj\Debug\net6.0\PublicDelegateProblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\PublicDelegateProblem\obj\Debug\net6.0\PublicDelegateProblem.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\PublicDelegateProblem\obj\Debug\net6.0\PublicDelegateProblem.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\PublicDelegateProblem\obj\Debug\net6.0\PublicDelegateProblem.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\PublicDelegateProblem\obj\Debug\net6.0\PublicDelegateProblem.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\PublicDelegateProblem\obj\Debug\net6.0\ref\PublicDelegateProblem.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\PublicDelegateProblem\obj\Debug\net6.0\PublicDelegateProblem.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\PublicDelegateProblem\obj\Debug\net6.0\PublicDelegateProblem.genruntimeconfig.cache

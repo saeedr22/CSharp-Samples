@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ActionAndFuncDelegates\bin\Debug\net6.0\ActionAndFuncDelegates.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ActionAndFuncDelegates\bin\Debug\net6.0\ActionAndFuncDelegates.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ActionAndFuncDelegates\bin\Debug\net6.0\ActionAndFuncDelegates.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ActionAndFuncDelegates\bin\Debug\net6.0\ActionAndFuncDelegates.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ActionAndFuncDelegates\bin\Debug\net6.0\ref\ActionAndFuncDelegates.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ActionAndFuncDelegates\bin\Debug\net6.0\ActionAndFuncDelegates.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ActionAndFuncDelegates\obj\Debug\net6.0\ActionAndFuncDelegates.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ActionAndFuncDelegates\obj\Debug\net6.0\ActionAndFuncDelegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ActionAndFuncDelegates\obj\Debug\net6.0\ActionAndFuncDelegates.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ActionAndFuncDelegates\obj\Debug\net6.0\ActionAndFuncDelegates.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ActionAndFuncDelegates\obj\Debug\net6.0\ActionAndFuncDelegates.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ActionAndFuncDelegates\obj\Debug\net6.0\ActionAndFuncDelegates.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ActionAndFuncDelegates\obj\Debug\net6.0\ref\ActionAndFuncDelegates.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ActionAndFuncDelegates\obj\Debug\net6.0\ActionAndFuncDelegates.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\ActionAndFuncDelegates\obj\Debug\net6.0\ActionAndFuncDelegates.genruntimeconfig.cache
