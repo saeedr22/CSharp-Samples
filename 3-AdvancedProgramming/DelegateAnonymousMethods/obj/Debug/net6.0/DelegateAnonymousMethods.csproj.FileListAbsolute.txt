@@ -1,0 +1,15 @@
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\DelegateAnonymousMethods\bin\Debug\net6.0\DelegateAnonymousMethods.exe
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\DelegateAnonymousMethods\bin\Debug\net6.0\DelegateAnonymousMethods.deps.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\DelegateAnonymousMethods\bin\Debug\net6.0\DelegateAnonymousMethods.runtimeconfig.json
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\DelegateAnonymousMethods\bin\Debug\net6.0\DelegateAnonymousMethods.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\DelegateAnonymousMethods\bin\Debug\net6.0\ref\DelegateAnonymousMethods.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\DelegateAnonymousMethods\bin\Debug\net6.0\DelegateAnonymousMethods.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\DelegateAnonymousMethods\obj\Debug\net6.0\DelegateAnonymousMethods.csproj.AssemblyReference.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\DelegateAnonymousMethods\obj\Debug\net6.0\DelegateAnonymousMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\DelegateAnonymousMethods\obj\Debug\net6.0\DelegateAnonymousMethods.AssemblyInfoInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\DelegateAnonymousMethods\obj\Debug\net6.0\DelegateAnonymousMethods.AssemblyInfo.cs
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\DelegateAnonymousMethods\obj\Debug\net6.0\DelegateAnonymousMethods.csproj.CoreCompileInputs.cache
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\DelegateAnonymousMethods\obj\Debug\net6.0\DelegateAnonymousMethods.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\DelegateAnonymousMethods\obj\Debug\net6.0\ref\DelegateAnonymousMethods.dll
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\DelegateAnonymousMethods\obj\Debug\net6.0\DelegateAnonymousMethods.pdb
+E:\sarez\Codes\C#Pro9_Samples\CSharp-Samples\3-AdvancedProgramming\DelegateAnonymousMethods\obj\Debug\net6.0\DelegateAnonymousMethods.genruntimeconfig.cache
