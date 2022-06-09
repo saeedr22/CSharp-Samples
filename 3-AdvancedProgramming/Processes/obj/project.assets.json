@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\sarez\\Codes\\C#Pro9_Samples\\CSharp-Samples\\3-AdvancedProgramming\\Collections\\Collections.csproj",
-      "projectName": "Collections",
-      "projectPath": "E:\\sarez\\Codes\\C#Pro9_Samples\\CSharp-Samples\\3-AdvancedProgramming\\Collections\\Collections.csproj",
+      "projectUniqueName": "E:\\sarez\\Codes\\C#Pro9_Samples\\CSharp-Samples\\3-AdvancedProgramming\\Processes\\Processes.csproj",
+      "projectName": "Processes",
+      "projectPath": "E:\\sarez\\Codes\\C#Pro9_Samples\\CSharp-Samples\\3-AdvancedProgramming\\Processes\\Processes.csproj",
       "packagesPath": "C:\\Users\\saeed\\.nuget\\packages\\",
-      "outputPath": "E:\\sarez\\Codes\\C#Pro9_Samples\\CSharp-Samples\\3-AdvancedProgramming\\Collections\\obj\\",
+      "outputPath": "E:\\sarez\\Codes\\C#Pro9_Samples\\CSharp-Samples\\3-AdvancedProgramming\\Processes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\saeed\\AppData\\Roaming\\NuGet\\NuGet.Config",
